@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riskienarviointi.dokufolio.com/sitemap.xml
